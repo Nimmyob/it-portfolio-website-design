@@ -1,8 +1,8 @@
 export const profile = {
-  name: 'Alex Morgan',
+  name: 'Nimmy O B',
   role: 'IT Professional & Aspiring DevOps Engineer',
   location: 'Open to remote & on-site roles',
-  email: 'alex.morgan@example.com',
+  email: 'nimmy.ob@example.com',
   linkedin: 'https://www.linkedin.com/in/your-profile',
   github: 'https://github.com/your-username',
 }
